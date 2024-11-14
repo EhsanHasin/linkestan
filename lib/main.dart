@@ -5,8 +5,7 @@ import 'utilities/my_constants.dart';
 import 'pages/home_page.dart';
 void main() => runApp(
     MaterialApp(
-      title: APP_Name,
-      theme: ThemeData(
+      title: APP_Name,      theme: ThemeData(
         primarySwatch: Colors.green,
           scaffoldBackgroundColor: Colors.lightGreenAccent
       ),
